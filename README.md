@@ -1,4 +1,4 @@
-# easy_integratyion_api_products_type
+# easy_integration_api_products_type
 
 A new Flutter project.
 

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="easy_integratyion_api_products_type"
+        android:label="easy_integration_api_products_type"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
